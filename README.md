@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 👨🏽‍💻  I’m currently an ICS Undergrad student at Ostbayerische Technische Hochschule (OTH) Regensburg, Germany.
-👋 I am currently working at KONUX as Working Student - IT and previously worked at several big-size IT and automation industries such as Rockwell Automation, Schaeffler and Kyndryl.
+👋 I am currently working at Munich Airport as Working Student 
 👀 I have a strong technical foundation in Python, C, SQL/MySQL, and Power BI, java along with web development technologies such as HTML, CSS , as well as experience with computer networking cybersecurity tools. I’m passionate about solving real-world problems and exploring areas like cybersecurity, software development, AI/ML, cloud computing, and data systems.
 💞 I’m actively seeking opportunities in Cybersecurity, Software Development, Cloud, and Product Management — and always open to collaborating on impactful projects and open-source work.
 💥 I am a professional WordPress website designer with over 8 years of experience
