@@ -1,16 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mahedi Hasan</h1>
+<h1 align="center">Hi 👋, I am Mohammad Ibrahim </h1>
 <h3 align="center">Computer Science Undergrad | Tech Enthusiast | Problem Solver</h3>
 
 # 💫 About Me:
-👨🏽‍💻 I’m currently an ICS Undergrad student at Ostbayerische Technische Hochschule (OTH) Regensburg, Germany.<br> 👋 I am currently working at KONUX as Working Student - IT and previously worked at several big-size IT and automation industries such as Rockwell Automation, Schaeffler and Kyndryl.<br>👀 I have passion for problem solving. I'm interested in software development technology, especially languages in Python, Golang, C and C++. I have also keen interest in Cyber Security, Cloud Computing, Data, AI and ML.<br> 💞️ I’m looking to collaborate on various open source projects based on software development.<br>💥 I am a professional WordPress website designer with over 8 years of experience.<br> 📫 Reach me at smahedih@gmail.com<br> 🏠 Website: https://www.hmahedi.com
+👨🏽‍💻  I’m currently an ICS Undergrad student at Ostbayerische Technische Hochschule (OTH) Regensburg, Germany.
+👋 I am currently working at KONUX as Working Student - IT and previously worked at several big-size IT and automation industries such as Rockwell Automation, Schaeffler and Kyndryl.
+👀 I have a strong technical foundation in Python, C, SQL/MySQL, and Power BI, java along with web development technologies such as HTML, CSS , as well as experience with computer networking cybersecurity tools. I’m passionate about solving real-world problems and exploring areas like cybersecurity, software development, AI/ML, cloud computing, and data systems.
+💞 I’m actively seeking opportunities in Cybersecurity, Software Development, Cloud, and Product Management — and always open to collaborating on impactful projects and open-source work.
+💥 I am a professional WordPress website designer with over 8 years of experience
 
 
 ## 🌐 Get Connected:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smahedih) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@smahedih) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smahedih) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/smahedih)
-
+https://www.linkedin.com/in/ibrahim-a82682318/
+sayidppt@gmail.com 
 # 💻 Tech Stack & Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-4078c0?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-253858?style=for-the-badge&logo=jira&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
+ ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-4078c0?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-253858?style=for-the-badge&logo=jira&logoColor=white)_![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 # 📊 GitHub Stats: 
@@ -30,11 +34,8 @@
 
 | Position                                             | Workplace        | Duration            | Location               |
 | ---------------------------------------------------- | ---------------- | ------------------- | ---------------------- |
-| Working Student - IT | KONUX                      | June 2025 - Present  | Munich, Germany |
-| Technical Regulations Research Intern | Schaeffler                      | October 2024 - March 2025  | Regensburg, Germany |
-| Software Engineer Intern | Rockwell Automation                          | February 2023 - August 2023  | Prague, Czech Republic |
-| Junior SharePoint Specialist and Web Designer Intern | Kyndryl          | September 2022 - October 2022 | Brno, Czech Republic |
-| Founder                 | Bangladeshi Students Community in Europe      | May 2016 - Present     |
+| Working Student - Munich Airport                      | April 24 - Present  | Munich, Germany |
+ Bangladeshi Students Community in Europe      | May 2017 - Present     |
 
 <br />
 <!-- work experience section ends here  -->
@@ -52,12 +53,3 @@
 
 <!-- Achievements section starts here  -->
 
-# 🏅 Achievements and Awards
-
-✅ DAAD STIBET Scholarship <br>
-✅ e-fellows.net Scholarship
-
-<br />
-<!-- Achievements section ends here  -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smahedih&label=Profile%20views&color=0e75b6&style=flat" alt="smahedih" /> </p>
