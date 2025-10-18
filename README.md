@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I am Mohammad Ibrahim </h1>
-<h3 align="center">Computer Science Undergrad | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center">Computer Science Undergrad | Cybersecurity Enthusiast | Problem Solver</h3>
 
 # 💫 About Me:
 👨🏽‍💻  I’m currently an ICS Undergrad student at Ostbayerische Technische Hochschule (OTH) Regensburg, Germany.
 👋 I am currently working at Munich Airport as Working Student 
-👀 I have a strong technical foundation in Python, C, SQL/MySQL, and Power BI, java along with web development technologies such as HTML, CSS , as well as experience with computer networking cybersecurity tools. I’m passionate about solving real-world problems and exploring areas like cybersecurity, software development, AI/ML, cloud computing, and data systems.
+👀 I have a strong technical foundation in java, python, C, SQL/MySQL, and Power BI, java along with web development technologies such as HTML, CSS , as well as experience with computer networking cybersecurity tools. I’m passionate about solving real-world problems and exploring areas like cybersecurity, software development, AI/ML, cloud computing, and data systems.
 💞 I’m actively seeking opportunities in Cybersecurity, Software Development, Cloud, and Product Management — and always open to collaborating on impactful projects and open-source work.
 
 
