@@ -36,7 +36,7 @@ sayidppt@gmail.com
 | Position                                             | Workplace        | Duration            | Location               |
 | ---------------------------------------------------- | ---------------- | ------------------- | ---------------------- |
 | Working Student - Munich Airport                      | Munich, Germany | 2024-present     |     Munich Airport
- Bangladeshi Students Community in Europe      | May 2017 - Present     |
+ | Team Member          |  Bangladeshi Students Community in Europe |  May 2017 - Present | Virtual|
 
 <br />
 <!-- work experience section ends here  -->
